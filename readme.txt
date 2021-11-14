@@ -1,6 +1,6 @@
 CMSS_
 
-ce tool a etait creer a but education, merci de ne pas l'utiliser pour des actions malveillantes !
+ce tool a était créer a but éducatif, merci de ne pas l'utiliser pour des actions malveillantes !
 
 
 # installer les requirements
